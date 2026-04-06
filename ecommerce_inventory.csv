@@ -1,0 +1,271 @@
+date,sku,merchant_id,category,price,inventory_qty
+2026-03-07,LAPT-X1,Target,Electronics,893.4,121
+2026-03-07,LAPT-X1,BestBuy,Electronics,940.54,145
+2026-03-07,LAPT-X1,Amazon,Electronics,939.05,124
+2026-03-07,COFF-MUG,Target,Home Goods,14.99,428
+2026-03-07,COFF-MUG,BestBuy,Home Goods,15.37,440
+2026-03-07,COFF-MUG,Amazon,Home Goods,14.77,454
+2026-03-07,HEAD-PRO,Target,Electronics,195.28,191
+2026-03-07,HEAD-PRO,BestBuy,Electronics,192.26,212
+2026-03-07,HEAD-PRO,Amazon,Electronics,189.6,172
+2026-03-08,LAPT-X1,Target,Electronics,917.56,139
+2026-03-08,LAPT-X1,BestBuy,Electronics,870.66,153
+2026-03-08,LAPT-X1,Amazon,Electronics,909.95,131
+2026-03-08,COFF-MUG,Target,Home Goods,14.65,502
+2026-03-08,COFF-MUG,BestBuy,Home Goods,15.59,520
+2026-03-08,COFF-MUG,Amazon,Home Goods,14.34,469
+2026-03-08,HEAD-PRO,Target,Electronics,202.18,209
+2026-03-08,HEAD-PRO,BestBuy,Electronics,201.69,178
+2026-03-08,HEAD-PRO,Amazon,Electronics,199.8,205
+2026-03-09,LAPT-X1,Target,Electronics,890.68,136
+2026-03-09,LAPT-X1,BestBuy,Electronics,937.19,140
+2026-03-09,LAPT-X1,Amazon,Electronics,911.25,147
+2026-03-09,COFF-MUG,Target,Home Goods,15.04,434
+2026-03-09,COFF-MUG,BestBuy,Home Goods,14.46,475
+2026-03-09,COFF-MUG,Amazon,Home Goods,14.36,449
+2026-03-09,HEAD-PRO,Target,Electronics,209.24,185
+2026-03-09,HEAD-PRO,BestBuy,Electronics,190.45,195
+2026-03-09,HEAD-PRO,Amazon,Electronics,198.32,209
+2026-03-10,LAPT-X1,Target,Electronics,880.93,163
+2026-03-10,LAPT-X1,BestBuy,Electronics,925.97,140
+2026-03-10,LAPT-X1,Amazon,Electronics,899.25,120
+2026-03-10,COFF-MUG,Target,Home Goods,14.54,510
+2026-03-10,COFF-MUG,BestBuy,Home Goods,14.4,520
+2026-03-10,COFF-MUG,Amazon,Home Goods,14.38,503
+2026-03-10,HEAD-PRO,Target,Electronics,192.42,210
+2026-03-10,HEAD-PRO,BestBuy,Electronics,195.53,206
+2026-03-10,HEAD-PRO,Amazon,Electronics,201.69,171
+2026-03-11,LAPT-X1,Target,Electronics,905.28,122
+2026-03-11,LAPT-X1,BestBuy,Electronics,912.19,152
+2026-03-11,LAPT-X1,Amazon,Electronics,888.25,120
+2026-03-11,COFF-MUG,Target,Home Goods,14.74,491
+2026-03-11,COFF-MUG,BestBuy,Home Goods,14.58,458
+2026-03-11,COFF-MUG,Amazon,Home Goods,15.53,534
+2026-03-11,HEAD-PRO,Target,Electronics,198.45,163
+2026-03-11,HEAD-PRO,BestBuy,Electronics,191.1,167
+2026-03-11,HEAD-PRO,Amazon,Electronics,207.65,164
+2026-03-12,LAPT-X1,Target,Electronics,931.74,131
+2026-03-12,LAPT-X1,BestBuy,Electronics,937.18,163
+2026-03-12,LAPT-X1,Amazon,Electronics,891.84,155
+2026-03-12,COFF-MUG,Target,Home Goods,14.79,437
+2026-03-12,COFF-MUG,BestBuy,Home Goods,14.41,514
+2026-03-12,COFF-MUG,Amazon,Home Goods,14.33,528
+2026-03-12,HEAD-PRO,Target,Electronics,204.39,183
+2026-03-12,HEAD-PRO,BestBuy,Electronics,191.98,208
+2026-03-12,HEAD-PRO,Amazon,Electronics,209.0,199
+2026-03-13,LAPT-X1,Target,Electronics,869.76,128
+2026-03-13,LAPT-X1,BestBuy,Electronics,902.7,145
+2026-03-13,LAPT-X1,Amazon,Electronics,858.02,121
+2026-03-13,COFF-MUG,Target,Home Goods,15.37,497
+2026-03-13,COFF-MUG,BestBuy,Home Goods,15.41,484
+2026-03-13,COFF-MUG,Amazon,Home Goods,14.37,548
+2026-03-13,HEAD-PRO,Target,Electronics,197.29,188
+2026-03-13,HEAD-PRO,BestBuy,Electronics,202.16,164
+2026-03-13,HEAD-PRO,Amazon,Electronics,207.39,190
+2026-03-14,LAPT-X1,Target,Electronics,932.37,156
+2026-03-14,LAPT-X1,BestBuy,Electronics,888.56,141
+2026-03-14,LAPT-X1,Amazon,Electronics,882.51,151
+2026-03-14,COFF-MUG,Target,Home Goods,14.57,513
+2026-03-14,COFF-MUG,BestBuy,Home Goods,15.71,453
+2026-03-14,COFF-MUG,Amazon,Home Goods,14.97,445
+2026-03-14,HEAD-PRO,Target,Electronics,197.88,176
+2026-03-14,HEAD-PRO,BestBuy,Electronics,196.67,207
+2026-03-14,HEAD-PRO,Amazon,Electronics,190.98,210
+2026-03-15,LAPT-X1,Target,Electronics,926.88,133
+2026-03-15,LAPT-X1,BestBuy,Electronics,868.41,124
+2026-03-15,LAPT-X1,Amazon,Electronics,870.09,148
+2026-03-15,COFF-MUG,Target,Home Goods,15.37,517
+2026-03-15,COFF-MUG,BestBuy,Home Goods,14.76,530
+2026-03-15,COFF-MUG,Amazon,Home Goods,14.36,526
+2026-03-15,HEAD-PRO,Target,Electronics,203.53,216
+2026-03-15,HEAD-PRO,BestBuy,Electronics,208.37,207
+2026-03-15,HEAD-PRO,Amazon,Electronics,203.66,192
+2026-03-16,LAPT-X1,Target,Electronics,899.81,155
+2026-03-16,LAPT-X1,BestBuy,Electronics,894.74,128
+2026-03-16,LAPT-X1,Amazon,Electronics,921.31,151
+2026-03-16,COFF-MUG,Target,Home Goods,15.45,421
+2026-03-16,COFF-MUG,BestBuy,Home Goods,14.91,548
+2026-03-16,COFF-MUG,Amazon,Home Goods,14.44,496
+2026-03-16,HEAD-PRO,Target,Electronics,194.83,194
+2026-03-16,HEAD-PRO,BestBuy,Electronics,202.82,211
+2026-03-16,HEAD-PRO,Amazon,Electronics,199.27,160
+2026-03-17,LAPT-X1,Target,Electronics,896.29,129
+2026-03-17,LAPT-X1,BestBuy,Electronics,895.05,136
+2026-03-17,LAPT-X1,Amazon,Electronics,872.44,142
+2026-03-17,COFF-MUG,Target,Home Goods,14.3,416
+2026-03-17,COFF-MUG,BestBuy,Home Goods,15.5,440
+2026-03-17,COFF-MUG,Amazon,Home Goods,14.54,441
+2026-03-17,HEAD-PRO,Target,Electronics,190.28,168
+2026-03-17,HEAD-PRO,BestBuy,Electronics,191.83,195
+2026-03-17,HEAD-PRO,Amazon,Electronics,196.78,183
+2026-03-18,LAPT-X1,Target,Electronics,876.61,140
+2026-03-18,LAPT-X1,BestBuy,Electronics,937.11,157
+2026-03-18,LAPT-X1,Amazon,Electronics,902.23,155
+2026-03-18,COFF-MUG,Target,Home Goods,15.27,540
+2026-03-18,COFF-MUG,BestBuy,Home Goods,15.55,470
+2026-03-18,COFF-MUG,Amazon,Home Goods,14.63,406
+2026-03-18,HEAD-PRO,Target,Electronics,206.16,186
+2026-03-18,HEAD-PRO,BestBuy,Electronics,202.32,193
+2026-03-18,HEAD-PRO,Amazon,Electronics,195.01,183
+2026-03-19,LAPT-X1,Target,Electronics,886.28,134
+2026-03-19,LAPT-X1,BestBuy,Electronics,934.52,139
+2026-03-19,LAPT-X1,Amazon,Electronics,925.48,146
+2026-03-19,COFF-MUG,Target,Home Goods,15.21,516
+2026-03-19,COFF-MUG,BestBuy,Home Goods,14.79,475
+2026-03-19,COFF-MUG,Amazon,Home Goods,14.44,487
+2026-03-19,HEAD-PRO,Target,Electronics,204.1,216
+2026-03-19,HEAD-PRO,BestBuy,Electronics,206.08,210
+2026-03-19,HEAD-PRO,Amazon,Electronics,204.57,194
+2026-03-20,LAPT-X1,Target,Electronics,915.6,157
+2026-03-20,LAPT-X1,BestBuy,Electronics,861.6,159
+2026-03-20,LAPT-X1,Amazon,Electronics,868.08,140
+2026-03-20,COFF-MUG,Target,Home Goods,14.76,472
+2026-03-20,COFF-MUG,BestBuy,Home Goods,14.43,432
+2026-03-20,COFF-MUG,Amazon,Home Goods,15.34,522
+2026-03-20,HEAD-PRO,Target,Electronics,200.94,184
+2026-03-20,HEAD-PRO,BestBuy,Electronics,195.05,164
+2026-03-20,HEAD-PRO,Amazon,Electronics,205.08,194
+2026-03-21,LAPT-X1,Target,Electronics,907.27,126
+2026-03-21,LAPT-X1,BestBuy,Electronics,885.14,129
+2026-03-21,LAPT-X1,Amazon,Electronics,924.72,159
+2026-03-21,COFF-MUG,Target,Home Goods,15.65,527
+2026-03-21,COFF-MUG,BestBuy,Home Goods,14.6,546
+2026-03-21,COFF-MUG,Amazon,Home Goods,14.61,492
+2026-03-21,HEAD-PRO,Target,Electronics,207.85,209
+2026-03-21,HEAD-PRO,BestBuy,Electronics,193.62,161
+2026-03-21,HEAD-PRO,Amazon,Electronics,195.47,163
+2026-03-22,LAPT-X1,Target,Electronics,918.5,164
+2026-03-22,LAPT-X1,BestBuy,Electronics,912.73,161
+2026-03-22,LAPT-X1,Amazon,Electronics,934.5,145
+2026-03-22,COFF-MUG,Target,Home Goods,15.0,500
+2026-03-22,COFF-MUG,BestBuy,Home Goods,15.56,476
+2026-03-22,COFF-MUG,Amazon,Home Goods,14.86,462
+2026-03-22,HEAD-PRO,Target,Electronics,189.74,168
+2026-03-22,HEAD-PRO,BestBuy,Electronics,191.85,200
+2026-03-22,HEAD-PRO,Amazon,Electronics,202.96,170
+2026-03-23,LAPT-X1,Target,Electronics,911.71,154
+2026-03-23,LAPT-X1,BestBuy,Electronics,884.8,136
+2026-03-23,LAPT-X1,Amazon,Electronics,908.69,151
+2026-03-23,COFF-MUG,Target,Home Goods,15.57,547
+2026-03-23,COFF-MUG,BestBuy,Home Goods,14.67,456
+2026-03-23,COFF-MUG,Amazon,Home Goods,15.12,523
+2026-03-23,HEAD-PRO,Target,Electronics,206.9,167
+2026-03-23,HEAD-PRO,BestBuy,Electronics,203.6,214
+2026-03-23,HEAD-PRO,Amazon,Electronics,203.33,197
+2026-03-24,LAPT-X1,Target,Electronics,892.89,125
+2026-03-24,LAPT-X1,BestBuy,Electronics,916.07,120
+2026-03-24,LAPT-X1,Amazon,Electronics,899.83,125
+2026-03-24,COFF-MUG,Target,Home Goods,15.01,510
+2026-03-24,COFF-MUG,BestBuy,Home Goods,14.52,505
+2026-03-24,COFF-MUG,Amazon,Home Goods,14.77,516
+2026-03-24,HEAD-PRO,Target,Electronics,198.73,198
+2026-03-24,HEAD-PRO,BestBuy,Electronics,203.63,187
+2026-03-24,HEAD-PRO,Amazon,Electronics,207.93,194
+2026-03-25,LAPT-X1,Target,Electronics,931.07,161
+2026-03-25,LAPT-X1,BestBuy,Electronics,857.75,120
+2026-03-25,LAPT-X1,Amazon,Electronics,894.06,121
+2026-03-25,COFF-MUG,Target,Home Goods,15.58,404
+2026-03-25,COFF-MUG,BestBuy,Home Goods,15.7,466
+2026-03-25,COFF-MUG,Amazon,Home Goods,14.38,449
+2026-03-25,HEAD-PRO,Target,Electronics,202.01,202
+2026-03-25,HEAD-PRO,BestBuy,Electronics,207.15,179
+2026-03-25,HEAD-PRO,Amazon,Electronics,194.97,189
+2026-03-26,LAPT-X1,Target,Electronics,893.15,122
+2026-03-26,LAPT-X1,BestBuy,Electronics,892.56,163
+2026-03-26,LAPT-X1,Amazon,Electronics,911.68,129
+2026-03-26,COFF-MUG,Target,Home Goods,15.32,440
+2026-03-26,COFF-MUG,BestBuy,Home Goods,15.16,442
+2026-03-26,COFF-MUG,Amazon,Home Goods,14.92,469
+2026-03-26,HEAD-PRO,Target,Electronics,205.83,205
+2026-03-26,HEAD-PRO,BestBuy,Electronics,205.5,183
+2026-03-26,HEAD-PRO,Amazon,Electronics,190.12,213
+2026-03-27,LAPT-X1,Target,Electronics,909.84,138
+2026-03-27,LAPT-X1,BestBuy,Electronics,907.56,163
+2026-03-27,LAPT-X1,Amazon,Electronics,875.27,125
+2026-03-27,COFF-MUG,Target,Home Goods,15.22,533
+2026-03-27,COFF-MUG,BestBuy,Home Goods,15.34,506
+2026-03-27,COFF-MUG,Amazon,Home Goods,14.57,412
+2026-03-27,HEAD-PRO,Target,Electronics,192.7,202
+2026-03-27,HEAD-PRO,BestBuy,Electronics,203.13,166
+2026-03-27,HEAD-PRO,Amazon,Electronics,195.78,167
+2026-03-28,LAPT-X1,Target,Electronics,921.88,160
+2026-03-28,LAPT-X1,BestBuy,Electronics,886.13,130
+2026-03-28,LAPT-X1,Amazon,Electronics,932.07,143
+2026-03-28,COFF-MUG,Target,Home Goods,14.79,466
+2026-03-28,COFF-MUG,BestBuy,Home Goods,14.92,474
+2026-03-28,COFF-MUG,Amazon,Home Goods,15.01,523
+2026-03-28,HEAD-PRO,Target,Electronics,204.19,179
+2026-03-28,HEAD-PRO,BestBuy,Electronics,202.27,171
+2026-03-28,HEAD-PRO,Amazon,Electronics,206.91,179
+2026-03-29,LAPT-X1,Target,Electronics,924.64,126
+2026-03-29,LAPT-X1,BestBuy,Electronics,944.53,131
+2026-03-29,LAPT-X1,Amazon,Electronics,939.81,128
+2026-03-29,COFF-MUG,Target,Home Goods,14.34,508
+2026-03-29,COFF-MUG,BestBuy,Home Goods,14.42,492
+2026-03-29,COFF-MUG,Amazon,Home Goods,15.65,428
+2026-03-29,HEAD-PRO,Target,Electronics,195.56,196
+2026-03-29,HEAD-PRO,BestBuy,Electronics,192.88,207
+2026-03-29,HEAD-PRO,Amazon,Electronics,199.06,174
+2026-03-30,LAPT-X1,Target,Electronics,886.42,134
+2026-03-30,LAPT-X1,BestBuy,Electronics,932.04,133
+2026-03-30,LAPT-X1,Amazon,Electronics,881.54,157
+2026-03-30,COFF-MUG,Target,Home Goods,14.98,495
+2026-03-30,COFF-MUG,BestBuy,Home Goods,14.56,408
+2026-03-30,COFF-MUG,Amazon,Home Goods,14.28,415
+2026-03-30,HEAD-PRO,Target,Electronics,205.6,207
+2026-03-30,HEAD-PRO,BestBuy,Electronics,194.1,196
+2026-03-30,HEAD-PRO,Amazon,Electronics,199.72,182
+2026-03-31,LAPT-X1,Target,Electronics,933.92,128
+2026-03-31,LAPT-X1,BestBuy,Electronics,859.58,143
+2026-03-31,LAPT-X1,Amazon,Electronics,903.25,159
+2026-03-31,COFF-MUG,Target,Home Goods,14.47,469
+2026-03-31,COFF-MUG,BestBuy,Home Goods,15.73,420
+2026-03-31,COFF-MUG,Amazon,Home Goods,14.66,484
+2026-03-31,HEAD-PRO,Target,Electronics,194.94,214
+2026-03-31,HEAD-PRO,BestBuy,Electronics,193.4,215
+2026-03-31,HEAD-PRO,Amazon,Electronics,202.05,184
+2026-04-01,LAPT-X1,Target,Electronics,916.41,124
+2026-04-01,LAPT-X1,BestBuy,Electronics,896.77,156
+2026-04-01,LAPT-X1,Amazon,Electronics,897.39,127
+2026-04-01,COFF-MUG,Target,Home Goods,15.26,538
+2026-04-01,COFF-MUG,BestBuy,Home Goods,15.01,438
+2026-04-01,COFF-MUG,Amazon,Home Goods,14.95,431
+2026-04-01,HEAD-PRO,Target,Electronics,204.28,201
+2026-04-01,HEAD-PRO,BestBuy,Electronics,190.77,180
+2026-04-01,HEAD-PRO,Amazon,Electronics,205.4,193
+2026-04-02,LAPT-X1,Target,Electronics,1088.86,13
+2026-04-02,LAPT-X1,BestBuy,Electronics,1027.31,13
+2026-04-02,LAPT-X1,Amazon,Electronics,1124.44,13
+2026-04-02,COFF-MUG,Target,Home Goods,15.24,528
+2026-04-02,COFF-MUG,BestBuy,Home Goods,15.38,523
+2026-04-02,COFF-MUG,Amazon,Home Goods,15.13,470
+2026-04-02,HEAD-PRO,Target,Electronics,196.95,169
+2026-04-02,HEAD-PRO,BestBuy,Electronics,200.17,196
+2026-04-02,HEAD-PRO,Amazon,Electronics,198.1,213
+2026-04-03,LAPT-X1,Target,Electronics,1078.4,12
+2026-04-03,LAPT-X1,BestBuy,Electronics,1111.88,13
+2026-04-03,LAPT-X1,Amazon,Electronics,1107.46,14
+2026-04-03,COFF-MUG,Target,Home Goods,15.21,546
+2026-04-03,COFF-MUG,BestBuy,Home Goods,15.71,485
+2026-04-03,COFF-MUG,Amazon,Home Goods,14.77,408
+2026-04-03,HEAD-PRO,Target,Electronics,197.39,207
+2026-04-03,HEAD-PRO,BestBuy,Electronics,190.47,168
+2026-04-03,HEAD-PRO,Amazon,Electronics,201.38,169
+2026-04-04,LAPT-X1,Target,Electronics,1113.7,14
+2026-04-04,LAPT-X1,BestBuy,Electronics,1087.08,15
+2026-04-04,LAPT-X1,Amazon,Electronics,1120.3,15
+2026-04-04,COFF-MUG,Target,Home Goods,14.35,538
+2026-04-04,COFF-MUG,BestBuy,Home Goods,15.29,473
+2026-04-04,COFF-MUG,Amazon,Home Goods,14.98,437
+2026-04-04,HEAD-PRO,Target,Electronics,207.86,211
+2026-04-04,HEAD-PRO,BestBuy,Electronics,198.09,219
+2026-04-04,HEAD-PRO,Amazon,Electronics,195.67,199
+2026-04-05,LAPT-X1,Target,Electronics,1131.11,16
+2026-04-05,LAPT-X1,BestBuy,Electronics,1112.9,13
+2026-04-05,LAPT-X1,Amazon,Electronics,1096.74,13
+2026-04-05,COFF-MUG,Target,Home Goods,14.59,527
+2026-04-05,COFF-MUG,BestBuy,Home Goods,14.31,461
+2026-04-05,COFF-MUG,Amazon,Home Goods,14.77,418
+2026-04-05,HEAD-PRO,Target,Electronics,208.36,179
+2026-04-05,HEAD-PRO,BestBuy,Electronics,204.71,196
+2026-04-05,HEAD-PRO,Amazon,Electronics,193.97,205
