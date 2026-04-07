@@ -24,7 +24,6 @@ This pipeline solves that by monitoring the **structural inputs** (daily merchan
 4. **The AI Alert:** The LLM acts as a Product Analyst, reading the SQL data and outputting a concise, formatted Slack message recommending an immediate pause on the predictive model for the affected category.
 
 ## How to Run Locally
-
 **Prerequisites:**
 * Python 3.x installed
 * An active OpenAI Developer API Key
@@ -38,9 +37,7 @@ This pipeline solves that by monitoring the **structural inputs** (daily merchan
 
 *(Note: A mocked AI response option is available in the code comments for testing without API credits).*
 
-## Edge Cases & Troubleshooting (PM Playbook)
-A robust data pipeline must handle failures gracefully. Here is how this architecture anticipates common edge cases:
-
+## Edge Cases & Troubleshooting
 * **API Rate Limits / Downtime:** If the LLM API is unreachable or rate-limited (e.g., Error 429), the system will fallback to a localized text alert containing the raw SQL output. This ensures the pricing team still gets the critical data while DevOps investigates the API connection.
 * **Corrupted Data Ingestion:** If the upstream CSV feed contains null values or strings in the `inventory_qty` column, the SQLite `CREATE TABLE` schema enforces strict typing. The pipeline will isolate the corrupted rows before they can pollute the 7-day rolling average calculation.
 * **Mitigating Alert Fatigue:** The anomaly trigger deliberately tracks *Inventory Quantity* (structural data) rather than *Price Spread* (market noise). This prevents the AI from spamming the team every time a competitor runs a flash sale.
